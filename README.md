@@ -11,7 +11,7 @@ The core of it is explained in this image:
 _Image from here: http://www.therightfits.com/2014/01/fit-challenge-30-days-of-planks-and-a-weekly-recap/_
 
 ## Progress
-Whoever explained the challenge to me did it wrong and told me you start at - instead of 20s so bear with me; is not a typo.
+Whoever explained the challenge to me did it wrong and told me that you were supposed you start at *30s* instead of *20s* so bear with me; is not a typo.
 
 | *Days* | *My time* | *Challenge time* |
 |:------:|:---------:|:----------------:|
