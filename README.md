@@ -18,9 +18,9 @@ Whoever explained the challenge to me did it wrong and told me that you were sup
 |  __1__ | 30s | 20s |
 |  __2__ | 30s | 20s |
 |  __3__ | 31s | 30s |
-|  __4__ | - | 30s |
-|  __5__ | - | 40s |
-|  __6__ | - | __REST__ |
+|  __4__ | 32s | 30s |
+|  __5__ | 42s | 40s |
+|  __6__ | 0s | __REST__ |
 |  __7__ | - | 45s |
 |  __8__ | - | 45s |
 |  __9__ | - | 60s |
