@@ -21,7 +21,7 @@ Whoever explained the challenge to me did it wrong and told me that you were sup
 |  __4__ | 32s | 30s |
 |  __5__ | 42s | 40s |
 |  __6__ | 0s | __REST__ |
-|  __7__ | - | 45s |
+|  __7__ | 42s<sup>*</sup> | 45s |
 |  __8__ | - | 45s |
 |  __9__ | - | 60s |
 | __10__ | - | 60s |
@@ -45,6 +45,9 @@ Whoever explained the challenge to me did it wrong and told me that you were sup
 | __28__ | - | 240s |
 | __29__ | - | 270s |
 | __30__ | - | 300s |
+
+---
+* <sup>*</sup> : I thought today was supposed to be 40s… was wrong ¯\\\_(ツ)\_/¯
 
 [resolutions]:http://estebantorr.es/blog/2014/12/31/new-year-resolutions/
 [21days]:http://estebantorr.es/blog/2015/07/30/21DaysChallenge/
