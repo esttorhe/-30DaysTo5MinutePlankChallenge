@@ -25,8 +25,8 @@ Whoever explained the challenge to me did it wrong and told me that you were sup
 |  __8__ | 47s | 45s |
 |  __9__ | 60s | 60s |
 | __10__ | 62s | 60s |
-| __11__ | - | 60s |
-| __12__ | - | 90s |
+| __11__ | 61s | 60s |
+| __12__ | 92s | 90s |
 | __13__ | - | __REST__ |
 | __14__ | - | 90s |
 | __15__ | - | 90s |
