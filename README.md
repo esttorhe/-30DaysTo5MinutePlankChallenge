@@ -29,7 +29,7 @@ Whoever explained the challenge to me did it wrong and told me that you were sup
 | __12__ | 92s | 90s |
 | __13__ | 0s | __REST__ |
 | __14__ | 92s | 90s |
-| __15__ | - | 90s |
+| __15__ | 90.5s | 90s |
 | __16__ | - | 120s |
 | __17__ | - | 120s |
 | __18__ | - | 150s |
